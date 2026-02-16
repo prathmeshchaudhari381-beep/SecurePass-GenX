@@ -27,7 +27,9 @@ A simple, fun, and beginner-friendly Python tool that:
 
 ## Follow the menu ✨
 1 → Generate a new strong password
+
 2 → Check your password strength
+
 3 → Exit
 
 ## Example Output
