@@ -18,6 +18,43 @@ A simple, fun, and beginner-friendly Python tool that:
 ## How to Run 🚀
 
 1. Clone the repository:
-   ```bash
+   bash
    git clone https://github.com/prathmeshchaudhari381-beep/SecurePass-GenX.git
    cd SecurePass-GenX
+
+## Run the script 🚀
+- python3 securepass_genx.py
+
+## Follow the menu ✨
+1 → Generate a new strong password
+2 → Check your password strength
+3 → Exit
+
+## Example Output
+🔐 SecurePass GenX - Ultimate Password Tool 🔐
+
+╔════════════════════════════════════╗
+║        What would you like to do?  ║
+║   1 → Generate strong password     ║
+║   2 → Check password strength      ║
+║   3 → Exit                         ║
+╚════════════════════════════════════╝
+
+➜ Enter your choice (1/2/3): 1
+
+➜ How many characters? (12–32 recommended): 16
+
+🔥 YOUR NEW SUPER-STRONG PASSWORD 🔥
+  🔑  X7$kPq9@mL2vN#rT  🔑
+     (Length: 16 characters)
+
+   Strength: 10/10   🛡️🛡️🛡️🛡️🛡️
+   GOD MODE PASSWORD – UNBREAKABLE! 🌟
+
+   ## Requirements
+   ➜ Python 3.6 or higher
+   ➜ No external packages required (uses only built-in modules)
+
+   ## License
+   ➜ This project is licensed under the MIT License – feel free to use, modify, and share!
+   ➜ Made by Prathmesh Chaudhari
