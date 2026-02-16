@@ -36,10 +36,15 @@ A simple, fun, and beginner-friendly Python tool that:
 🔐 SecurePass GenX - Ultimate Password Tool 🔐
 
 ╔════════════════════════════════════╗
+
 ║        What would you like to do?  ║
+
 ║   1 → Generate strong password     ║
+
 ║   2 → Check password strength      ║
+
 ║   3 → Exit                         ║
+
 ╚════════════════════════════════════╝
 
 ➜ Enter your choice (1/2/3): 1
@@ -67,4 +72,5 @@ A simple, fun, and beginner-friendly Python tool that:
 
    ## License
    ➜ This project is licensed under the MIT License – feel free to use, modify, and share!
+   
    ➜ Made by Prathmesh Chaudhari
