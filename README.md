@@ -39,11 +39,15 @@ A simple, fun, and beginner-friendly Python tool that:
 
 ║        What would you like to do?        ║
 
+
 ║   1 → Generate strong password           ║
+
 
 ║   2 → Check password strength            ║
 
+
 ║   3 → Exit                               ║
+
 
 ╚════════════════════════════════════╝
 
