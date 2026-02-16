@@ -44,17 +44,25 @@ A simple, fun, and beginner-friendly Python tool that:
 
 ➜ Enter your choice (1/2/3): 1
 
+
 ➜ How many characters? (12–32 recommended): 16
 
+
 🔥 YOUR NEW SUPER-STRONG PASSWORD 🔥
+
   🔑  X7$kPq9@mL2vN#rT  🔑
+  
      (Length: 16 characters)
+     
 
    Strength: 10/10   🛡️🛡️🛡️🛡️🛡️
+   
    GOD MODE PASSWORD – UNBREAKABLE! 🌟
 
    ## Requirements
+   
    ➜ Python 3.6 or higher
+   
    ➜ No external packages required (uses only built-in modules)
 
    ## License
